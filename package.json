@@ -1,0 +1,23 @@
+{
+  "name": "competeiq-competitor-intelligence",
+  "version": "1.0.0",
+  "description": "AI-Powered Competitor Intelligence System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ai",
+    "competitor-analysis",
+    "gen-ai",
+    "hackathon"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
